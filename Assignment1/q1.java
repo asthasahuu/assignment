@@ -1,4 +1,4 @@
-class A1 {
+class q1 {
     public static void main(String[] args) {
         int perimeter = 230;
         int l = 70;
